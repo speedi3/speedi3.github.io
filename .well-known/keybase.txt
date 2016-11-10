@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/speedie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://speedi3.github.io
+  * I am speedie (https://keybase.io/speedie) on keybase.
+  * I have a public key with fingerprint B19B FAF0 61FA BF6C 5357  01EC 2305 CB29 5DDA A35F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012071b2f30c080010e75652c2c3a346eb9efecf33da5af90c8f05063b341733b60b0a",
+            "fingerprint": "b19bfaf061fabf6c535701ec2305cb295ddaa35f",
+            "host": "keybase.io",
+            "key_id": "2305cb295ddaa35f",
+            "kid": "01010f72d9716adf2169e32ce428155add9367f3c3bc03cf3b917d67ab605eb9f5290a",
+            "uid": "1dabee9677cc24e3d97a5cfc65c53919",
+            "username": "speedie"
+        },
+        "revoke": {
+            "sig_ids": [
+                "14c6affeabff8ac9b4622ae3254c1a72f8206e8e3270260eee9f21caa9c10f600f"
+            ]
+        },
+        "service": {
+            "hostname": "speedi3.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1478796362,
+    "expire_in": 157680000,
+    "prev": "e65dad9256ab1753a41f5da756af0912c0736fcff041a9d25f792b6b48da926a",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMOzAnicbZJrTBRXFMd3pWBLtNWWxLYaxIH4Yt3eed3ZWcGW9KE2NdrSGlugmzt3
+7l1GdHfdWVBUCkTrayloozVq4wsrBsJDG2O0tirCSgU1SEWqJq0VE2qEUKpFULR3
+aP3QpLkfJvfM//zP75x7GkZH2WLtidHN07KulXvszWce5NoWJR14dxWn+fV8zr2K
+yyHDH7JEJ2bIk2PonJsDvAAUXhOoCDBwAcADoshQFrCARSRKkGgqoQRTUdSRjKgK
+sIsCGUBREyVeEUUNAg0gzsFRw+clwUDQ8IWYrcarGkUUQJ4ijUIsi7ICeIIFEchY
+E1RZ1xESZcoSs/2mlcHgNGQSp+FnMXbxDOP9j/4pNztUEXRV4SHSqcBDlYgCJpLg
+4mUZ6boqQoWKWNQwEBm/pvKKDhXEgGXWFJUFdZg7d9iO15FGiAoVBWNBIiKzRTKm
+GMoMXeVVS2iSoA8tJUxtBgjRDcIVOLggyfPnEGuspuFlzCbnzuB4CUNEKWGtUxfC
+qiZBQUAMT5YwjxSBugQAiYsFFCBAQFhl1gBGSMWsKQgA5bKYNyuYZ+Bhc2tI/yku
+Or1GKDtX+2degaA/5Mf+Jex3digUMN0WWig/YOmXE83zr5NHM3w6eyeWkUeCpuH3
+cW6eKXHIsKx5SXEpKhSh4ODIioARJB7DUsgKZJsBgFWH5DFLAmUd6aogQ6Txiiwi
+iacswhaHPbnKCxgoIqSYUiDxSNUFmSqqoEFNculIFaA1dpMs8/mtkowTea22DK8P
+hXKDbKr1ZzKfsdljbTHRI6wFtsU+N+bpWhtNY2yVn++vzkhY2L97UsLquuhf186J
+L1WdD164N+LWyhp4+M/OivTLeWnuo2X2P5JDE9pL6qNaXt12+1Juefyj9UWjWucN
+PAwbmW7H5Vbc2/6VP+NQ3fKcj7PXXCx7uKP8YPT155u/B/OfpKWWTrmdvKnjVll7
+xadFyQf2vawGBn8p274u5YcL1xePGAIfjbzZ3eTsqsu6NPHGSm9f1bbgzvuw8eTa
+gdMO4/f7P1Y6F1y5WLF9KPzBsexTKxJ2kqUbvg6PnX338kLD0Vbe1B4eM2t6S/fJ
+8Vtr+7cH3huZUVjJOcINiw7FOqXRCUfSlm3lS45Xv7QpNW6js6Vjd8qjsfxVtfXn
+NZO7Z86fWFBbfbqyfGdspL82bkrG1AtxSXc6a6cV1D1ue6t4QtJ330b8607MaLuT
+/P65g/P2pleFY24kGl2p4zpmre4YX9C4fKiw//Xe0po9UxJzss5/cXbcQ+KaWpNB
+7O+cu1a5LwLn9r3d2B/q+2t2Qv1E07jqbr3TW5r6SupgX6Tk6MGWzgp8vkEtHlh/
+ffprz26Jty/xjXrckHCo4LOemUVdzqoF7tbfdkX1v3kfxNxte3GOveds6Fj69MVb
+zVORwl09qzfbdqzaG6kbzE9avO/KxqAcdWLyEeGTPRu+mfEh3p8+c2QUtPfOvTm+
++HBT1yQlcbZWZbxRfC84CFJ++nJp2ebmgSdbfLOOZ8b9DRN+5ms=
+=9d60
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/speedie
+
+==================================================================
